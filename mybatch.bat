@@ -1,3 +1,3 @@
-echo "This is from GitHub"
+echo " This is from GitHub"
 echo " new line added"
-echo " one more line added"
+echo " Hi , how are you"
